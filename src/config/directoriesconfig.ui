@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>700</width>
-    <height>345</height>
+    <width>707</width>
+    <height>355</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -18,16 +18,16 @@
     <number>1</number>
    </property>
    <property name="leftMargin">
-    <number>0</number>
+    <number>9</number>
    </property>
    <property name="topMargin">
-    <number>0</number>
+    <number>9</number>
    </property>
    <property name="rightMargin">
-    <number>0</number>
+    <number>9</number>
    </property>
    <property name="bottomMargin">
-    <number>0</number>
+    <number>9</number>
    </property>
    <item>
     <layout class="QHBoxLayout" name="_2">
@@ -464,16 +464,16 @@
       <number>6</number>
      </property>
      <property name="leftMargin">
-      <number>0</number>
+      <number>1</number>
      </property>
      <property name="topMargin">
-      <number>0</number>
+      <number>1</number>
      </property>
      <property name="rightMargin">
-      <number>0</number>
+      <number>1</number>
      </property>
      <property name="bottomMargin">
-      <number>0</number>
+      <number>1</number>
      </property>
      <item>
       <widget class="QLabel" name="docLabel">

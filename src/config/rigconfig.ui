@@ -20,19 +20,19 @@
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <property name="spacing">
-    <number>1</number>
+    <number>9</number>
    </property>
    <property name="leftMargin">
-    <number>0</number>
+    <number>9</number>
    </property>
    <property name="topMargin">
-    <number>0</number>
+    <number>9</number>
    </property>
    <property name="rightMargin">
-    <number>0</number>
+    <number>9</number>
    </property>
    <property name="bottomMargin">
-    <number>0</number>
+    <number>9</number>
    </property>
    <item>
     <widget class="QGroupBox" name="groupBox_2">
@@ -47,16 +47,16 @@
        <number>1</number>
       </property>
       <property name="leftMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <property name="topMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <property name="rightMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <property name="bottomMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <item>
        <widget class="QCheckBox" name="enablePTTCheckBox">
@@ -177,16 +177,16 @@
        <number>1</number>
       </property>
       <property name="leftMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <property name="topMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <property name="rightMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <property name="bottomMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <item>
        <widget class="QCheckBox" name="enableCATCheckBox">
@@ -226,6 +226,7 @@
             <property name="font">
              <font>
               <family>Ubuntu Mono</family>
+              <pointsize>9</pointsize>
               <weight>75</weight>
               <italic>false</italic>
               <bold>true</bold>
@@ -692,16 +693,16 @@
        <number>1</number>
       </property>
       <property name="leftMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <property name="topMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <property name="rightMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <property name="bottomMargin">
-       <number>0</number>
+       <number>4</number>
       </property>
       <item>
        <widget class="QCheckBox" name="enableXMLRPCCheckBox">
@@ -770,6 +771,18 @@
    </item>
    <item>
     <layout class="QHBoxLayout" name="horizontalLayout_12">
+     <property name="leftMargin">
+      <number>4</number>
+     </property>
+     <property name="topMargin">
+      <number>4</number>
+     </property>
+     <property name="rightMargin">
+      <number>4</number>
+     </property>
+     <property name="bottomMargin">
+      <number>4</number>
+     </property>
      <item>
       <widget class="QLabel" name="serialPortTextLabel_2">
        <property name="minimumSize">
